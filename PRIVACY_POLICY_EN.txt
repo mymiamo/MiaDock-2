@@ -1,0 +1,39 @@
+MIADOCK 2 — PRIVACY POLICY
+MiaDock 2 | Version 1.0 | Effective: 25 November 2026
+Copyright © 2026 Eray Durupınar (mymiamo.net)
+https://mymiamo.net/miadock-2 | info@mymiamo.net
+
+1. SCOPE AND CONTACT
+This policy concerns the MiaDock 2 application. The Developer and data controller for processing under his responsibility is Eray Durupınar (mymiamo.net), Türkiye. Privacy inquiries: info@mymiamo.net. Microsoft Store, external websites and services may be separately responsible for their processing activities.
+
+2. LOCAL OPERATION
+MiaDock 2 does not require a separate user account or automatically send telemetry, usage statistics or crash reports to the Developer. User settings and error logs are stored on the device and are not synchronized to a Developer cloud. To provide media, audio, customization and system controls, the application may locally process media title, artist, album, playback duration, audio and volume, running applications and shortcuts, display and system status, Wi-Fi, Bluetooth, battery and brightness information. Windows GSMTC, WASAPI/NAudio and Windows system APIs are used. Whisper.net audio analysis and timing validation and Spleeter/ONNX Runtime source separation run locally. Audio recordings for this analysis are not sent to the Developer or a remote AI service. Local error logs are not automatically transmitted externally.
+
+3. ONLINE FUNCTIONS AND RECIPIENTS
+Local operation does not mean absence of all network traffic. The following connections support application functionality:
+• Lyrics: LRCLIB (https://lrclib.net/docs), LRCMux (https://lrcmux.dev/) and lrc.red (https://lrc.red/api). Track title, artist and, where needed, album and duration are sent. Requests use no API key and include the Developer contact email in the User-Agent header. Providers may see the connection IP address and standard HTTP request information; LRCMux may forward queries to other lyrics sources. The purpose is to find and display matching lyrics. Track metadata may reveal listening preferences.
+• Model download: the Spleeter model is downloaded at installation from GitHub sherpa-onnx releases (https://github.com/k2-fsa/sherpa-onnx/releases/tag/source-separation-models). Connection and request information may reach the download source; local audio analysis itself is not sent to a server.
+• Licensing and purchases: Microsoft Store handles account, purchase, device entitlement and license validation operations. Microsoft's own account and transaction information is covered by its privacy statement: https://privacy.microsoft.com/privacystatement. There is no separate Developer account or license server.
+• Update checks, online icon/theme downloads and weather: when enabled, these functions connect to the relevant provider and may transmit necessary request information. Icon, theme and weather providers and exact request fields have not yet been confirmed; this section must be completed before publication. If weather uses location, its source, precision and recipient must be separately disclosed.
+• Web and support links: when opened, the browser and destination website apply their own connection and data processing terms. This policy does not cover all processing by the Developer website.
+Third-party retention periods, server locations and onward transfers are outside the Developer's direct control. The absence of automatic Developer telemetry does not mean these services do not process data.
+
+4. SUPPORT REQUESTS
+If a user contacts info@mymiamo.net, their email address, message and voluntarily supplied attachments may be processed to handle support or rights requests. Please avoid sending unnecessary personal information or sensitive logs. An email service provider's infrastructure may be used for support. This is not automatic application telemetry.
+
+5. COLLECTION METHOD, PURPOSE AND LEGAL BASIS
+Local function data is obtained from operating system interfaces and user choices, network request data from relevant online functions, and support data from electronic messages sent by the user. For processing under the Developer's responsibility, operations necessary for performance of a contract may fall under Article 5(2)(c) of Turkish Law No. 6698; legal obligations under Article 5(2)(ç); operations necessary to establish, exercise or protect rights under Article 5(2)(e); and legitimate interests under Article 5(2)(f) where its conditions are satisfied without prejudice to fundamental rights. These are not blanket or automatic authorizations for every operation. The applicable legal basis and international transfer conditions for optional online disclosures must be determined for each provider before publication; where explicit consent is required, it must be obtained separately and freely. This policy is not a consent form.
+
+6. RETENTION, DELETION AND SECURITY
+Local settings and logs remain on the user's device. Uninstalling may not remove every local file; users may separately remove relevant application data and log files. Support correspondence should be retained only as necessary to handle the request and meet applicable legal retention or rights-protection needs. Exact support retention and deletion procedures must be established before publication. External providers' retention periods must be verified separately against their own policies. The Developer is responsible for appropriate technical and organizational safeguards for data under his control. Users should protect their devices and accounts.
+
+7. INTERNATIONAL TRANSFERS
+Online services may process information through systems outside Türkiye. Personal data transfers carried out by the controller must meet applicable requirements of Article 9 of Law No. 6698. Recipient countries, provider roles and legal transfer mechanisms have not been verified and must be finalized before enabling the relevant functions. Publication of this policy alone does not authorize transfers.
+
+8. USER RIGHTS
+Under Article 11 of Turkish Law No. 6698, subject to applicable conditions, individuals may learn whether their data is processed, request information, learn the purpose and whether data is used accordingly, learn domestic and international recipients, request correction, deletion or destruction and notification to recipients, object to adverse outcomes based exclusively on automated analysis, and seek compensation for damage caused by unlawful processing. Requests may be made through info@mymiamo.net using legally permitted methods; identity verification may be required. Other mandatory data protection and complaint rights remain unaffected. Users may also contact relevant external controllers regarding data they hold.
+
+9. CHANGES AND LANGUAGE
+If this policy changes, the new text and effective date will be published. Required notices and separate consent procedures will be followed. The Turkish text prevails to the extent legally permitted.
+
+PUBLICATION STATUS: This privacy text is a review draft based on the described technical architecture. It must not be published as a final privacy notice before the open items in Sections 3, 5, 6 and 7 and actual network traffic have been verified.

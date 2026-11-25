@@ -1,0 +1,14 @@
+MIADOCK PROPRIETARY SOFTWARE LICENSE
+MiaDock 2 | Version 1.0 | Effective: 25 November 2026
+Copyright © 2026 Eray Durupınar (mymiamo.net)
+https://mymiamo.net/miadock-2 | info@mymiamo.net
+
+All rights reserved. MiaDock 2 is proprietary, closed-source software provided by Eray Durupınar under the developer brand mymiamo.net. This is not an open-source license.
+
+Rights in original components lawfully owned by the developer are reserved. The software is licensed, not sold: a valid purchase grants only the limited usage license described in EULA_TR.txt / EULA_EN.txt. Personal and commercial use is permitted under that license. No ownership of the software or right of access to its source code is granted.
+
+Unauthorized copying (except copies necessary for lawful use), modification, rebranding, reverse engineering, redistribution, sale, rental, sublicensing and integration of proprietary components into other software are prohibited, subject to the exceptions in the EULA and mandatory law. Redistribution and third-party sales require prior written authorization. This notice grants no source-code permission; access to a repository or file is not itself a license.
+
+Third-party components, models, content and artwork remain subject to their respective rights holders' licenses. Nothing here restricts rights granted under those licenses. See EULA_EN.txt for the full license terms, TRADEMARK_NOTICE_EN.txt for brand use and THIRD_PARTY_NOTICES.txt for third-party notices.
+
+Mandatory law is reserved. In case of conflict, the EULA and applicable third-party licenses govern within their respective scope; the Turkish text prevails to the extent legally permitted.

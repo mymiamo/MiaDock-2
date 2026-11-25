@@ -1,0 +1,39 @@
+MIADOCK 2 — GİZLİLİK POLİTİKASI
+MiaDock 2 | Sürüm 1.0 | Yürürlük: 25 Kasım 2026
+Copyright © 2026 Eray Durupınar (mymiamo.net)
+https://mymiamo.net/miadock-2 | info@mymiamo.net
+
+1. KAPSAM VE İLETİŞİM
+Bu politika MiaDock 2 uygulamasına ilişkindir. Geliştirici ve kendi sorumluluğundaki kişisel veri işleme faaliyetleri bakımından veri sorumlusu Eray Durupınar (mymiamo.net), Türkiye'dir. Gizlilik talepleri: info@mymiamo.net. Microsoft Store, harici web siteleri ve servisler kendi işleme faaliyetleri için ayrıca sorumlu olabilir.
+
+2. YEREL ÇALIŞMA
+MiaDock 2 ayrı kullanıcı hesabı gerektirmez; geliştiriciye otomatik telemetri, kullanım istatistiği veya hata raporu göndermez. Kullanıcı ayarları ve hata günlükleri cihazda saklanır; geliştirici tarafından buluta eşitlenmez. Uygulama işlevleri kapsamında medya başlığı, sanatçı, albüm, oynatma süresi, ses ve ses düzeyi, çalışan uygulamalar ve kısayollar, ekran ve sistem durumu, Wi-Fi, Bluetooth, pil ve parlaklık gibi bilgileri cihazda işleyebilir. Bu işlemler medya, ses, kişiselleştirme ve sistem kontrolü işlevlerini sunmak içindir. Windows GSMTC, WASAPI/NAudio ve Windows sistem API'leri kullanılır. Whisper.net ile ses analizi ve zamanlama doğrulaması, Spleeter/ONNX Runtime ile ses ayrıştırma yerelde yapılır. Bu analiz için ses kayıtları geliştiriciye veya bir uzaktan yapay zekâ servisine gönderilmez. Yerel hata kayıtları otomatik olarak dışarı aktarılmaz.
+
+3. ÇEVRİM İÇİ İŞLEVLER VE ALICILAR
+Yerel çalışma, bütün ağ trafiğinin bulunmadığı anlamına gelmez. Aşağıdaki bağlantılar işlevlerin sağlanması için kullanılır:
+• Şarkı sözleri: LRCLIB (https://lrclib.net/docs), LRCMux (https://lrcmux.dev/) ve lrc.red (https://lrc.red/api). Şarkı adı, sanatçı ve gerektiğinde albüm ve süre bilgisi gönderilir. İstekler API anahtarı içermez; User-Agent başlığında geliştiricinin iletişim e-postası bulunur. Bu servisler bağlantı IP adresini ve standart HTTP istek bilgilerini görebilir; LRCMux başka söz kaynaklarına sorgu yönlendirebilir. Amaç uygun şarkı sözlerini bulmak ve gösterebilmektir. Şarkı meta verileri dinleme tercihleri hakkında bilgi verebilir.
+• Model indirme: Spleeter modeli kurulum sırasında GitHub sherpa-onnx yayınlarından alınır (https://github.com/k2-fsa/sherpa-onnx/releases/tag/source-separation-models). Bağlantı ve istek bilgileri indirme kaynağına iletilebilir; yerel ses analizinin kendisi sunucuya gönderilmez.
+• Lisans ve satın alma: Microsoft Store hesap, satın alma, cihaz yetkilendirmesi ve lisans doğrulama işlemlerini yürütür. Microsoft'un kendi hesap ve işlem verileri Microsoft Gizlilik Bildirimi kapsamındadır: https://privacy.microsoft.com/privacystatement. Geliştiriciye ait ayrı üyelik ve lisans sunucusu yoktur.
+• Güncelleme kontrolü, çevrim içi ikon/tema indirme ve hava durumu: bu işlevler etkin olduklarında ilgili sağlayıcı ile bağlantı kurar ve gerekli istek verilerini iletebilir. İkon, tema ve hava durumu sağlayıcıları ile kesin istek alanları henüz teyit edilmediğinden bu bölüm yayın öncesi tamamlanmalıdır. Hava durumu için konum kullanılıyorsa kaynağı, hassasiyeti ve alıcısı ayrıca açıklanmalıdır.
+• Web ve destek bağlantıları: ilgili sayfalar açıldığında tarayıcı ve hedef site kendi bağlantı ve veri işleme koşullarını uygular. Bu politika geliştirici web sitesinin tüm veri işleme faaliyetlerini kapsamaz.
+Harici hizmetlerin kendi saklama süreleri, sunucu konumları ve sonraki aktarımları geliştiricinin doğrudan kontrolünde değildir. Uygulamada otomatik geliştirici telemetrisi bulunmaması, bu hizmetlerin veri işlemediği anlamına gelmez.
+
+4. DESTEK TALEPLERİ
+Kullanıcı info@mymiamo.net adresine kendisi başvurduğunda e-posta adresi, mesajı ve isteyerek gönderdiği ekler destek veya hak taleplerini değerlendirmek için işlenebilir. Gereksiz kişisel bilgi ve hassas kayıt göndermeyiniz. Destek için e-posta hizmet sağlayıcısının altyapısı kullanılabilir. Bu süreç uygulamanın otomatik telemetrisi değildir.
+
+5. ELDE ETME YÖNTEMİ, AMAÇ VE HUKUKİ SEBEP
+Yerel işlev verileri işletim sistemi arayüzlerinden ve kullanıcının seçimlerinden, ağ istekleri uygulamanın ilgili çevrim içi işlevlerinden, destek verileri kullanıcının gönderdiği elektronik iletilerden elde edilir. Geliştirici bakımından sözleşmenin ifası için zorunlu işlemler 6698 sayılı Kanun m.5/2(c), hukuki yükümlülükler m.5/2(ç), hakların tesisi, kullanılması veya korunması için zorunlu işlemler m.5/2(e), şartları gerçekleştiğinde temel hakları zedelemeyen meşru menfaatler m.5/2(f) temelinde değerlendirilebilir. Bunlar her işlem için otomatik veya toplu bir yetki oluşturmaz. İsteğe bağlı çevrim içi veri aktarımı için gerekli hukuki sebep ve yurt dışına aktarım şartları sağlayıcı bazında yayın öncesinde belirlenmelidir; açık rıza gerektiğinde ayrı ve özgür iradeyle alınır. Bu politika açık rıza metni değildir.
+
+6. SAKLAMA, SİLME VE GÜVENLİK
+Yerel ayarlar ve kayıtlar kullanıcı cihazında kalır. Uygulamayı kaldırmak tüm yerel dosyaları mutlaka silmeyebilir; kullanıcı ilgili uygulama veri ve günlük dosyalarını ayrıca kaldırabilir. Destek yazışmaları talebin ele alınması ve geçerli yasal saklama veya hakların korunması ihtiyaçlarıyla sınırlı tutulmalıdır. Kesin destek saklama süresi ve silme prosedürü yayın öncesinde belirlenmelidir. Harici sağlayıcıların saklama süreleri ayrıca kendi politikalarından doğrulanmalıdır. Geliştirici kendi kontrolündeki veriler için uygun teknik ve idari güvenlik tedbirlerini uygulamakla yükümlüdür. Kullanıcı cihazının ve hesaplarının güvenliğini korumalıdır.
+
+7. YURT DIŞINA AKTARIM
+Çevrim içi servisler Türkiye dışında bulunan sistemler üzerinden işleyebilir. Veri sorumlusu tarafından gerçekleştirilen kişisel veri aktarımlarında 6698 sayılı Kanun'un 9. maddesindeki uygulanabilir aktarım şartları karşılanmalıdır. Alıcı ülkeler, sağlayıcı rolleri ve hukuki aktarım mekanizmaları henüz doğrulanmamıştır; ilgili işlevlerin etkinleştirilmesinden önce tamamlanmalıdır. Yalnızca bu politikanın yayımlanması aktarım izni sağlamaz.
+
+8. KULLANICI HAKLARI
+6698 sayılı Kanun m.11 uyarınca ilgili kişiler, şartları dahilinde verilerinin işlenip işlenmediğini öğrenme, bilgi isteme, işleme amacını ve uygun kullanımını öğrenme, yurt içi/yurt dışı alıcıları bilme, düzeltme, silme veya yok etme isteme, bu işlemlerin alıcılara bildirilmesini isteme, münhasıran otomatik analiz sonucu aleyhe sonuca itiraz etme ve hukuka aykırı işleme nedeniyle zararının giderilmesini talep etme haklarına sahiptir. Başvurular info@mymiamo.net üzerinden mevzuatın izin verdiği yöntemlerle yapılabilir; kimlik doğrulaması gerekebilir. Diğer zorunlu veri koruma ve şikâyet hakları saklıdır. Harici veri sorumlularına ait veriler için ilgili sağlayıcıya da başvurulabilir.
+
+9. DEĞİŞİKLİKLER VE DİL
+Politika değiştiğinde yeni metin ve yürürlük tarihi yayımlanır. Gerekli bilgilendirme ve ayrı rıza işlemleri yapılır. Türkçe metin hukuken izin verilen ölçüde esas alınır.
+
+YAYIN DURUMU: Bu gizlilik metni, bildirilen teknik mimariye dayalı inceleme taslağıdır. 3, 5, 6 ve 7. bölümlerdeki açık noktalar ve gerçek ağ trafiği doğrulanmadan nihai aydınlatma metni olarak yayımlanmamalıdır.

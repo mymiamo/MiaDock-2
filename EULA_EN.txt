@@ -1,0 +1,62 @@
+MIADOCK 2 — END USER LICENSE AGREEMENT (EULA)
+MiaDock 2 | Version 1.0 | Effective: 25 November 2026
+Copyright © 2026 Eray Durupınar (mymiamo.net)
+https://mymiamo.net/miadock-2 | info@mymiamo.net
+
+1. PARTIES, SCOPE AND ACCEPTANCE
+This agreement is between Eray Durupınar, an independent developer based in Türkiye (mymiamo.net, “Developer”), and the individual or legal entity lawfully acquiring MiaDock 2 (“User”). The Software includes the application files, Developer-owned components, related documentation and, unless expressly stated otherwise, 2.x updates. These terms are made available before purchase or installation and accepted in accordance with applicable law. If you do not accept them, do not use the Software; statutory and platform refund rights remain unaffected. No special minimum age is imposed; legal capacity, necessary parental or guardian approval and platform requirements apply. Anyone accepting for an organization must have authority to represent it.
+
+2. LICENSE GRANT
+Subject to a valid one-time purchase and compliance with the license terms, the User receives a perpetual, non-exclusive, non-transferable, non-sublicensable limited right to install MiaDock 2 on authorized devices and use it for personal or commercial activities. Mandatory statutory rights are reserved. No subscription is required. The license does not transfer ownership, grant access to source code or authorize provision of the Software to third parties. Perpetual use does not guarantee continuous availability, compatibility or support. Organizational user and device entitlements are subject to the applicable platform license.
+
+3. PURCHASE, DEVICES AND VALIDATION
+For Microsoft Store purchases, account requirements, device limits, license acquisition and validation are subject to applicable Microsoft Store terms. There is no separate MiaDock account or Developer-operated license-key system. Internet access may be necessary for validation. The User must not unlawfully share or circumvent the license or validation mechanisms. Microsoft Store, Developer-authorized GitHub releases and other expressly authorized platforms may be official distribution channels. Acquiring files from GitHub or elsewhere does not itself grant paid usage rights. Paid use outside the Store is possible only if a valid license is supported for that distribution method; this agreement does not promise an alternative validation method.
+
+4. INTELLECTUAL PROPERTY
+Rights in original code, designs, interfaces, documentation, graphics and other components lawfully owned by the Developer are reserved. Third-party code, icons, models, lyrics and other content belong to or are licensed by their respective rights holders. Users retain their existing rights in content they create; this agreement does not assign those rights to the Developer. MiaDock 2 is an independent product, not an official Apple or Microsoft product.
+
+5. RESTRICTIONS
+With respect to Developer-owned components and subject to mandatory law, the User must not:
+(a) modify source code, compiled files or original components without authorization, create derivative software or make copies beyond those necessary for use;
+(b) reverse engineer, decompile, disassemble or unlawfully bypass protection mechanisms;
+(c) redistribute, sell, rent, sublicense or include the Software in commercial bundles without prior written permission;
+(d) rebrand or publish the Software as another person's product, or remove copyright or ownership notices;
+(e) integrate proprietary components into other applications or develop or use unauthorized third-party software extensions;
+(f) transfer the license to third parties or unlawfully share license rights.
+These terms do not remove non-waivable rights of lawful acquirers, such as installation, execution, error correction, necessary backup copies, observation or study and interoperability-related activities within statutory conditions (including Article 38 of Turkish Law No. 5846). Third-party licenses remain effective for their respective components.
+
+6. THEMES, VISUALS AND PROMOTION
+Users may develop, use and share visual themes and layouts through the customization methods offered by the application. This permission does not authorize source-code modification or third-party software extensions. Users must respect third-party rights in themes and content. Screenshots, videos, tutorials and reviews of MiaDock 2 may be shared in commercial or non-commercial content without prior permission. The name and logo may be used for truthful promotion and review; other uses require prior written permission. No false impression of official affiliation, sponsorship or ownership may be created. This permission does not cover rights in third-party lyrics, music, album artwork or other content. Sharing official download links is permitted.
+
+7. THIRD-PARTY COMPONENTS AND ONLINE SERVICES
+Some functions depend on Windows APIs, Microsoft Store, lyrics providers (LRCLIB, LRCMux, lrc.red), model download sources and, where available, icon, theme and weather services. Services are subject to their own terms and rights holders' permissions. Access, accuracy, coverage, timing and continuity are not guaranteed; features may change or be removed due to third-party terms or technical changes. Statutory obligations remain unaffected. The software license does not grant rights to reproduce, distribute or communicate musical works, lyrics, recordings, album artwork or separated audio to the public. Users must respect applicable intellectual property rights in their own use; this does not shift the Developer's own licensing obligations to Users.
+
+8. PRIVACY
+The application does not automatically send telemetry or crash reports to the Developer and does not require a separate account. Settings and error logs are stored locally. Lyrics searches and other online functions may send necessary request data to the relevant external services. See PRIVACY_POLICY_TR.txt / PRIVACY_POLICY_EN.txt. Acceptance of this agreement is not blanket consent to processing that legally requires separate consent.
+
+9. UPDATES AND UPGRADES
+Released MiaDock 2.x updates are provided to existing license holders without an additional application license fee. No specific release frequency or support duration is promised. Pricing and upgrade terms for MiaDock 3 and later major versions are determined separately by the Developer; they are not automatically included in the existing MiaDock 2 license. Mandatory update and conformity obligations remain unaffected.
+
+10. SUPPORT AND PRODUCT LIFECYCLE
+Free support may be provided as resources permit through info@mymiamo.net. No response time, uninterrupted support or resolution of every issue is promised. For legitimate technical, security or lifecycle reasons, and to the extent legally permitted, the Developer may change operating system and hardware support or discontinue development, maintenance, sales, distribution or online services. Legally required notices will be provided. Such a decision does not automatically revoke existing perpetual licenses; redownloads, platform access and future system compatibility are not guaranteed. Mandatory consumer and contractual rights are preserved.
+
+11. WARRANTY AND LIABILITY
+Subject to mandatory law and express obligations, the Software is provided AS IS and as available. No additional warranty of error-free or uninterrupted operation, universal compatibility or fitness for a particular purpose is made. Users should back up important files and settings. To the extent legally permitted, the Developer is not liable for loss caused by third-party outages not attributable to the Developer, use in unsupported environments or User interference contrary to this agreement. Liability for indirect loss and lost profits is excluded only insofar as it may lawfully be limited. Nothing excludes intentional misconduct, gross negligence, non-excludable liability, rights relating to defective goods or services, or mandatory consumer remedies. Payment does not diminish statutory rights.
+
+12. REFUNDS
+Payments and refund processes for Microsoft Store purchases are subject to the platform's applicable policies. Users may use Microsoft Store order history or Microsoft support channels to request a refund. No additional voluntary refund guarantee is provided. This does not restrict withdrawal rights, claims for defects or non-conformity, or other mandatory legal remedies. If other authorized sales channels open, their terms will be disclosed before purchase.
+
+13. TERMINATION
+The User may terminate this agreement by uninstalling and ceasing use. For a material license breach, the Developer may terminate the license in accordance with applicable law, providing required notice and any applicable opportunity to remedy. Following valid termination, the User must stop using the Software and remove unauthorized copies, subject to statutory retention rights. Technical revocation of a Store license depends on the platform's powers and rules. Intellectual property, liability, dispute provisions and terms that by nature survive may remain effective after termination.
+
+14. CHANGES TO TERMS
+The Developer may update this agreement, to the extent legally permitted, for reasons such as changes in law, platform requirements, security or the product. The new text and effective date will be published accessibly; prior notice and acceptance will be obtained where required. Changes do not automatically or retroactively remove existing contractual rights; mandatory rules on unilateral modifications remain unaffected.
+
+15. GOVERNING LAW, DISPUTES AND LANGUAGE
+The laws of the Republic of Türkiye apply. Mandatory consumer protection rules and remedies of the consumer's habitual residence remain unaffected where applicable. Disputes may be brought before legally competent courts and authorities, including applicable consumer arbitration committees. If the Turkish and English versions differ, the Turkish text prevails to the extent legally permitted.
+
+16. MISCELLANEOUS AND CONTACT
+An invalid provision does not affect other provisions to the extent it is severable. Mandatory law takes priority. Mandatory Microsoft Store terms and third-party licenses apply within their respective scope. This EULA is the principal agreement for use of the Software; LICENSE and trademark notices supplement it, while the privacy policy explains data processing.
+Developer: Eray Durupınar (mymiamo.net), Türkiye
+Web: https://mymiamo.net | https://mymiamo.net/miadock-2
+Contact: info@mymiamo.net

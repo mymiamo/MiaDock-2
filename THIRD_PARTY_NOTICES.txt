@@ -1,0 +1,42 @@
+MIADOCK 2 — THIRD-PARTY NOTICES / ÜÇÜNCÜ TARAF BİLDİRİMLERİ
+MiaDock 2 | Version 1.0 | Effective: 25 November 2026
+Copyright © 2026 Eray Durupınar (mymiamo.net)
+https://mymiamo.net/miadock-2 | info@mymiamo.net
+
+STATUS / DURUM: Preliminary inventory — NOT a complete redistribution notice. / Ön envanter — eksiksiz bir dağıtım bildirimi değildir.
+
+The following components were identified by the developer. Their exact shipped versions, transitive dependencies, copyright notices, license texts and model artifacts have not been audited. The license labels below are indicative upstream licenses, not a certification for the actual build. Preserve and include the applicable original license and copyright texts and any NOTICE files in the final distribution. Third-party rights are not restricted by the MiaDock EULA.
+Aşağıdaki bileşenler geliştirici beyanına dayanır. Dağıtılan kesin sürümler, geçişli bağımlılıklar, telif bildirimleri, lisans metinleri ve model dosyaları denetlenmemiştir. Aşağıdaki lisans adları ön bilgidir. Nihai dağıtıma geçerli özgün lisans ve telif metinleri ile gerekli NOTICE dosyalarını ekleyin. MiaDock EULA üçüncü taraf lisans haklarını kısıtlamaz.
+
+Component | Indicative license — verify exact version | Upstream
+Electron | MIT + bundled Chromium/Node and other notices | https://github.com/electron/electron
+React / React DOM | MIT | https://github.com/facebook/react
+TypeScript | Apache-2.0 | https://github.com/microsoft/TypeScript
+Vite | MIT | https://github.com/vitejs/vite
+esbuild | MIT | https://github.com/evanw/esbuild
+Lucide React | ISC; check additional upstream icon notices | https://github.com/lucide-icons/lucide
+Ionicons | MIT | https://github.com/ionic-team/ionicons
+@xmldom/xmldom | MIT | https://github.com/xmldom/xmldom
+.NET 10 / System.Management | MIT upstream; verify runtime and redistributable notices | https://github.com/dotnet/runtime
+NAudio.Wasapi | MIT | https://github.com/naudio/NAudio
+Whisper.net / Whisper.net.Runtime | MIT upstream; verify native runtime, whisper.cpp and model terms | https://github.com/sandrohanea/whisper.net
+Spleeter | MIT upstream code; exact converted model rights to verify | https://github.com/deezer/spleeter
+Microsoft.ML.OnnxRuntime | MIT upstream; verify bundled native libraries | https://github.com/microsoft/onnxruntime
+RustFFT | MIT OR Apache-2.0 (verify package) | https://github.com/ejmahler/RustFFT
+sherpa-onnx model download | Apache-2.0 upstream code; model artifact terms separate | https://github.com/k2-fsa/sherpa-onnx/releases/tag/source-separation-models
+Vitest | MIT | https://github.com/vitest-dev/vitest
+Playwright | Apache-2.0 | https://github.com/microsoft/playwright
+React Testing Library | MIT | https://github.com/testing-library/react-testing-library
+jsdom | MIT | https://github.com/jsdom/jsdom
+
+Windows GSMTC, WASAPI and other Windows APIs are platform interfaces; applicable Windows/SDK terms must be respected. Development and test tools need inclusion in customer notices only to the extent required by their licenses and actual distribution.
+Windows GSMTC, WASAPI ve diğer Windows API'leri platform arayüzleridir; ilgili Windows/SDK koşulları geçerlidir. Geliştirme ve test araçlarının müşteri bildirimlerine dahil edilmesi gerçek dağıtım ve lisans yükümlülüklerine bağlıdır.
+
+External content providers / Harici içerik sağlayıcıları:
+LRCLIB — https://lrclib.net/docs
+LRCMux — https://lrcmux.dev/
+lrc.red — https://lrc.red/api — published API terms require visible credit and link back wherever its data is shown; verify current full terms and commercial rights before release. / API şartlarında verinin gösterildiği yerde görünür atıf ve bağlantı istenmektedir; tam koşullar ve ticari haklar doğrulanmalıdır.
+Icon, theme and weather services / ikon, tema ve hava durumu hizmetleri — not finalized / kesinleşmedi.
+
+Free API access, an open-source server license or a model download link does not establish rights to use third-party lyrics, music, artwork or model weights commercially. Obtain appropriate permissions independently. No third-party endorsement is implied.
+Ücretsiz API erişimi, açık kaynak sunucu lisansı veya model indirme bağlantısı üçüncü taraf şarkı sözlerinin, müziğin, görsellerin veya model ağırlıklarının ticari kullanım hakkını tek başına sağlamaz. Gerekli izinleri ayrıca doğrulayın. Üçüncü taraf onayı iddia edilmez.

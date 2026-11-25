@@ -1,0 +1,14 @@
+MIADOCK KAPALI KAYNAK YAZILIM LİSANSI
+MiaDock 2 | Sürüm 1.0 | Yürürlük: 25 Kasım 2026
+Copyright © 2026 Eray Durupınar (mymiamo.net)
+https://mymiamo.net/miadock-2 | info@mymiamo.net
+
+Tüm hakları saklıdır. MiaDock 2, Eray Durupınar tarafından mymiamo.net geliştirici markası altında sunulan kapalı kaynaklı, mülkiyet hakkı saklı bir yazılımdır. Açık kaynak lisansı değildir.
+
+Yazılımın özgün ve geliştiricinin hukuken hak sahibi olduğu bileşenleri üzerindeki haklar saklıdır. Yazılım satılmaz; geçerli bir satın alma ile EULA_TR.txt / EULA_EN.txt dosyalarında açıklanan sınırlı kullanım lisansı verilir. Kişisel ve ticari kullanım bu lisans kapsamında mümkündür. Kullanıcı, uygulamanın mülkiyetini veya kaynak koduna erişim hakkını edinmez.
+
+Yetkisiz kopyalama (yasal kullanım için gerekli kopyalar hariç), değiştirme, yeniden markalama, tersine mühendislik, yeniden dağıtma, satma, kiralama, alt lisanslama ve başka yazılımlara özgün bileşenleri entegre etme, EULA ve emredici hukukta belirtilen istisnalar dışında yasaktır. Yeniden dağıtım ve üçüncü taraf satışı önceden yazılı yetki gerektirir. Bu bildirim tek başına kaynak koduna ilişkin herhangi bir izin vermez; depoya veya dosyaya erişim ayrıca bir lisans anlamına gelmez.
+
+Üçüncü taraf bileşenler, modeller, içerikler ve görseller kendi hak sahiplerinin lisanslarına tabidir. Bu metin o lisansların tanıdığı hakları kısıtlamaz. Tam lisans koşulları için EULA_TR.txt, marka kullanımı için TRADEMARK_NOTICE_TR.txt ve üçüncü taraf bildirimleri için THIRD_PARTY_NOTICES.txt dosyasına bakınız.
+
+Emredici hukuk saklıdır. Çelişki halinde EULA ve uygulanabilir üçüncü taraf lisansları kendi kapsamlarında esas alınır; Türkçe metin, hukuken izin verilen ölçüde önceliklidir.
