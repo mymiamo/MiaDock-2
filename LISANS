@@ -1,0 +1,62 @@
+MIADOCK 2 — SON KULLANICI LİSANS SÖZLEŞMESİ (EULA)
+MiaDock 2 | Sürüm 1.0 | Yürürlük: 25 Kasım 2026
+Copyright © 2026 Eray Durupınar (mymiamo.net)
+https://mymiamo.net/miadock-2 | info@mymiamo.net
+
+1. TARAFLAR, KAPSAM VE KABUL
+Bu sözleşme Türkiye'de yerleşik bağımsız geliştirici Eray Durupınar (mymiamo.net, “Geliştirici”) ile MiaDock 2'yi hukuka uygun biçimde edinen gerçek veya tüzel kişi (“Kullanıcı”) arasındadır. Yazılım; MiaDock 2'nin uygulama dosyalarını, geliştiriciye ait bileşenlerini, ilgili belgeleri ve aksi açıkça belirtilmedikçe 2.x güncellemelerini kapsar. Koşullar satın alma veya kurulum öncesinde erişilebilir kılınır ve uygulanabilir hukuka uygun şekilde kabul edilir. Kabul etmiyorsanız yazılımı kullanmayın; varsa yasal ve platform kaynaklı iade haklarınız saklıdır. Özel yaş sınırı yoktur; sözleşme ehliyeti, gerekli veli/vasi onayı ve platform koşulları uygulanır. Bir kuruluş adına kabul eden kişi temsil yetkisine sahip olmalıdır.
+
+2. LİSANSIN VERİLMESİ
+Geçerli tek seferlik satın alma ve lisans koşullarına uyum karşılığında Kullanıcıya MiaDock 2'yi yetkili cihazlarına kurmak ve kişisel veya ticari faaliyetlerinde kullanmak için süresiz, münhasır olmayan, devredilemez ve alt lisans verilemez sınırlı bir kullanım hakkı verilir. Emredici kanuni haklar saklıdır. Abonelik zorunluluğu yoktur. Lisans mülkiyet devri, kaynak kodu erişimi veya üçüncü kişilere yazılım sağlama yetkisi içermez. Süresiz kullanım hakkı, sürekli erişilebilirlik, uyumluluk veya destek garantisi değildir. Kuruluşlar için kullanıcı ve cihaz yetkileri geçerli platform lisansına tabidir.
+
+3. SATIN ALMA, CİHAZLAR VE DOĞRULAMA
+Microsoft Store satın alımlarında hesap, cihaz sayısı, lisans edinimi ve doğrulama Microsoft Store'un uygulanabilir koşullarına tabidir. Ayrı MiaDock hesabı veya geliştiriciye ait lisans anahtarı sistemi yoktur. Doğrulama gerektiğinde internet erişimi gerekebilir. Kullanıcı lisansını veya doğrulama mekanizmasını hukuka aykırı biçimde paylaşamaz ya da atlatamaz. Microsoft Store, geliştiricinin yetkilendirdiği GitHub yayınları ve ileride açıkça yetkilendirilen platformlar resmî dağıtım kanalı olabilir. GitHub veya başka bir kanaldan dosya edinmek tek başına ücretli kullanım hakkı oluşturmaz. Store dışında ücretli kullanım ancak geçerli lisansın o dağıtım biçiminde desteklenmesi halinde mümkündür; bu sözleşme alternatif bir doğrulama yöntemi vaat etmez.
+
+4. FİKRİ MÜLKİYET
+Geliştiricinin hukuken sahip olduğu özgün kod, tasarım, arayüz, belge, grafik ve diğer bileşenlere ilişkin haklar saklıdır. Üçüncü taraf kodu, ikonları, modelleri, şarkı sözleri ve diğer içerikler kendi hak sahiplerine aittir veya onların lisanslarına tabidir. Kullanıcı kendi oluşturduğu içerikler üzerindeki mevcut haklarını korur; bu sözleşme söz konusu hakları Geliştiriciye devretmez. MiaDock 2 bağımsız bir üründür, Apple veya Microsoft'un resmî ürünü değildir.
+
+5. KULLANIM KISITLAMALARI
+Geliştiriciye ait bileşenler bakımından ve emredici hukuk saklı kalmak üzere Kullanıcı:
+(a) kaynak kodunu, derlenmiş dosyaları veya özgün bileşenleri yetkisiz değiştiremez, türev yazılım oluşturamaz veya kullanım için gerekli olanın dışında kopyalayamaz;
+(b) tersine mühendislik, kaynak koda dönüştürme, makine kodunu çözümleme veya koruma mekanizmalarını hukuka aykırı biçimde aşma işlemleri yapamaz;
+(c) önceden yazılı izin olmadan yazılımı üçüncü taraflara yeniden dağıtamaz, satamaz, kiralayamaz, alt lisanslayamaz veya ticari paketlere dahil edemez;
+(d) yazılımı yeniden markalayamaz, başka bir kişiye aitmiş gibi yayımlayamaz, telif veya sahiplik bildirimlerini kaldıramaz;
+(e) özgün yazılım bileşenlerini başka uygulamalara entegre edemez veya yetkisiz üçüncü taraf yazılım eklentileri geliştiremez ve kullanamaz;
+(f) lisansını üçüncü kişilere devredemez veya lisans haklarını hukuka aykırı biçimde paylaşamaz.
+Bu hükümler, yazılımı hukuka uygun edinen kişinin kanunen engellenemeyen kurulum, çalıştırma, hata düzeltme, gerekli yedek kopya, gözlem/inceleme ve birlikte çalışabilirlik amaçlı işlemler gibi haklarını (özellikle 5846 sayılı Kanun m.38 kapsamındaki şartlar dahilinde) ortadan kaldırmaz. Üçüncü taraf lisanslarının tanıdığı haklar kendi bileşenleri bakımından geçerlidir.
+
+6. TEMALAR, GÖRSELLER VE TANITIM
+Uygulamanın sunduğu kişiselleştirme yöntemleriyle görsel tema ve düzen geliştirme, kullanma ve paylaşma serbesttir. Bu izin kaynak kodunu değiştirme veya üçüncü taraf yazılım eklentisi geliştirme izni değildir. Kullanıcı tema ve içeriklerinde üçüncü taraf haklarına uymalıdır. MiaDock 2'nin ekran görüntüleri, videoları, eğitimleri ve incelemeleri ticari veya ticari olmayan içeriklerde önceden izin gerekmeksizin paylaşılabilir. Marka adı ve logosu dürüst tanıtım ve inceleme amaçlı kullanılabilir; diğer kullanımlar önceden yazılı izne tabidir. Sahte resmî bağlantı, sponsorluk veya sahiplik izlenimi oluşturulamaz. Bu izin üçüncü taraf şarkı sözleri, müzik, albüm kapakları veya diğer içeriklerin haklarını kapsamaz. Resmî indirme bağlantılarını paylaşmak serbesttir.
+
+7. ÜÇÜNCÜ TARAF BİLEŞENLER VE ÇEVRİM İÇİ HİZMETLER
+Yazılımın bazı işlevleri Windows API'leri, Microsoft Store, şarkı sözü sağlayıcıları (LRCLIB, LRCMux, lrc.red), model indirme kaynakları ve mevcutsa ikon, tema ve hava durumu hizmetlerine bağlıdır. Hizmetler kendi koşullarına ve hak sahiplerinin izinlerine tabidir. Erişim, doğruluk, kapsam, zamanlama ve süreklilik garanti edilmez; üçüncü taraf koşulları veya teknik değişiklikler nedeniyle bir işlev değişebilir veya kaldırılabilir. Kanundan doğan yükümlülükler saklıdır. Yazılım lisansı müzik eserleri, sözler, ses kayıtları, albüm görselleri veya ayrıştırılmış sesler üzerinde çoğaltma, dağıtma veya kamuya sunma izni vermez. Kullanıcı kendi kullanımında geçerli fikri mülkiyet haklarına uymalıdır; bu hüküm Geliştiricinin kendi lisans yükümlülüklerini kullanıcıya yüklemez.
+
+8. GİZLİLİK
+Uygulamada geliştiriciye otomatik telemetri veya hata raporu iletimi ve ayrı kullanıcı hesabı yoktur. Ayarlar ve hata kayıtları yerel olarak tutulur. Şarkı sözü arama ve diğer çevrim içi işlevler ilgili dış hizmetlere gerekli istek verilerini iletebilir. Ayrıntılar PRIVACY_POLICY_TR.txt / PRIVACY_POLICY_EN.txt belgelerinde açıklanır. Bu sözleşmenin kabulü, hukuken ayrı rıza gerektiren veri işleme faaliyetleri için toplu açık rıza sayılmaz.
+
+9. GÜNCELLEMELER VE YÜKSELTMELER
+Yayımlanan MiaDock 2.x güncellemeleri mevcut lisans sahiplerine ek uygulama lisans bedeli olmaksızın sunulur. Belirli yayın sıklığı veya destek süresi taahhüt edilmez. MiaDock 3 ve sonraki büyük sürümlerin fiyatı ve yükseltme koşulları Geliştirici tarafından ayrıca belirlenir; mevcut 2 lisansı bunları kendiliğinden kapsamaz. Kanunen gerekli güncelleme ve uygunluk yükümlülükleri saklıdır.
+
+10. TEKNİK DESTEK VE ÜRÜN YAŞAM DÖNGÜSÜ
+info@mymiamo.net üzerinden imkânlar dahilinde ücretsiz destek sağlanabilir; yanıt süresi, kesintisiz destek veya her sorunun çözümü taahhüt edilmez. Geliştirici haklı teknik, güvenlik veya ürün yaşam döngüsü gerekleri doğrultusunda, hukuken izin verilen ölçüde, işletim sistemi ve donanım desteğini değiştirebilir veya ürünün geliştirilmesini, bakımını, satışını, dağıtımını ya da çevrim içi hizmetlerini sonlandırabilir. Kanunen gerekli bildirimler yapılır. Böyle bir karar mevcut süresiz lisansları kendiliğinden iptal etmez; yeniden indirme, platform erişimi veya gelecekteki sistem uyumluluğu garanti edilmez. Emredici tüketici ve sözleşme hakları korunur.
+
+11. GARANTİ VE SORUMLULUK
+Emredici hukuk ve açıkça üstlenilen yükümlülükler saklı kalmak üzere yazılım olduğu haliyle (AS IS) ve mevcut olduğu ölçüde sunulur. Hatasız, kesintisiz, her sistemle uyumlu veya belirli bir amaca uygun çalışma konusunda ek garanti verilmez. Kullanıcı önemli dosya ve ayarlarını yedeklemelidir. Hukuken izin verilen ölçüde Geliştirici, kendisine atfedilemeyen üçüncü taraf kesintilerinden, desteklenmeyen ortamların kullanımından veya kullanıcının sözleşmeye aykırı müdahalesinden kaynaklanan zararlardan sorumlu değildir. Dolaylı zarar ve kâr kaybı sorumluluğu yalnızca hukuken sınırlandırılabildiği ölçüde hariç tutulur. Kasıt, ağır kusur, kanunen sınırlandırılamayan sorumluluk, ayıplı mal/hizmetten doğan haklar ve zorunlu tüketici giderimleri hiçbir hükümle kaldırılmaz. Ücret ödenmiş olması yasal hakları azaltmaz.
+
+12. İADELER
+Microsoft Store satın alımlarının ödeme ve iade süreçleri platformun uygulanabilir politikalarına tabidir. İade için Microsoft Store sipariş geçmişi veya Microsoft destek kanalları kullanılabilir. Ek gönüllü iade garantisi verilmez. Bu durum cayma, ayıp, sözleşmeye aykırılık veya diğer emredici hukuk kaynaklı talepleri kısıtlamaz. Başka yetkili satış kanalları açılırsa ilgili koşullar satın alma öncesinde açıklanır.
+
+13. SÖZLEŞMENİN SONA ERMESİ
+Kullanıcı yazılımı kaldırıp kullanmayı bırakarak sözleşmeyi sona erdirebilir. Esaslı bir lisans ihlalinde Geliştirici, uygulanabilir hukuka uygun olarak gerekli bildirim ve varsa düzeltme imkânını sağlayarak lisansı sona erdirebilir. Geçerli sona erme sonrasında Kullanıcı yazılımı kullanmayı bırakmalı ve kullanımına izin verilmeyen kopyaları kaldırmalıdır; kanuni saklama hakları saklıdır. Teknik Store lisans iptali platformun yetkilerine ve kurallarına bağlıdır. Fikri mülkiyet, sorumluluk, uyuşmazlıklar ve niteliği gereği devam eden hükümler sona ermeden sonra da geçerli olabilir.
+
+14. KOŞULLARIN DEĞİŞTİRİLMESİ
+Geliştirici mevzuat, platform koşulları, güvenlik ve ürün değişiklikleri gibi nedenlerle bu sözleşmeyi hukuken izin verilen ölçüde güncelleyebilir. Yeni metin ve yürürlük tarihi erişilebilir biçimde yayımlanır; gerektiğinde önceden bildirim ve kabul alınır. Değişiklikler mevcut sözleşmeden doğan hakları kendiliğinden veya geriye dönük olarak ortadan kaldırmaz; tek taraflı değişikliklere ilişkin emredici hükümler saklıdır.
+
+15. GEÇERLİ HUKUK, UYUŞMAZLIKLAR VE DİL
+Türkiye Cumhuriyeti hukuku uygulanır. Tüketicinin mutat meskeni hukukunun uygulanması zorunlu koruyucu hükümleri ve başvuru yolları saklıdır. Uyuşmazlıklarda kanunen yetkili mahkemeler ve uygulanabilir tüketici hakem heyetleri dahil yetkili mercilere başvurulabilir. Türkçe ve İngilizce metinler arasında fark varsa hukuken izin verilen ölçüde Türkçe metin esas alınır.
+
+16. DİĞER HÜKÜMLER VE İLETİŞİM
+Geçersiz bir hüküm, ayrılabilir olduğu ölçüde diğer hükümlerin geçerliliğini etkilemez. Emredici hukuk önceliklidir. Microsoft Store'un zorunlu platform koşulları ve üçüncü taraf lisansları kendi kapsamlarında geçerlidir. Bu EULA, yazılımın kullanımına ilişkin temel sözleşmedir; LICENSE ve marka bildirimleri onu tamamlar, gizlilik politikası veri işleme hakkında bilgi verir.
+Geliştirici: Eray Durupınar (mymiamo.net), Türkiye
+Web: https://mymiamo.net | https://mymiamo.net/miadock-2
+İletişim: info@mymiamo.net
